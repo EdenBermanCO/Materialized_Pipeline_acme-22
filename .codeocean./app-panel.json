@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"datasets": [
+		{
+			"id": "4a117340-fb77-4f8c-b4d9-81e613abe125",
+			"name": "Internal_Data",
+			"description": "Desc",
+			"help_text": "Help"
+		}
+	],
+	"processes": [
+		"capsule_copy_of_fast_qc_1"
+	]
+}
